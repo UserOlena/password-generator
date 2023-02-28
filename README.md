@@ -15,3 +15,8 @@ This password generator web-site was biuld as part of the Berkley Extention Modu
 - When the validation of criteria is successful, the system generates the password;
 - The password is shown to the text area for user to copy;
 - A `copy` button was added to enhance the user experience, enabling users to copy the text area value to the clipboard;
+
+Deployed app is [here](https://userolena.github.io/password-generator/)
+
+Here is the screenshot of deployed app:
+![Screenshot of deployed app](/assets/img/password-generator.png)
